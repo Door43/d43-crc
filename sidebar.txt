@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[crc:home|Door43 (crc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-crc|d43-crc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-crc/archive/master.zip|d43-crc.zip]]
+
+**Recent Changes**
+{{changes>ns = crc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/crc|Ethnologue data]]
+
